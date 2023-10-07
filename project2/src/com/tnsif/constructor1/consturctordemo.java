@@ -1,7 +1,6 @@
 package com.tnsif.constructor1;
 
 import java.util.Scanner;
-import java.util.scanner;
 
 public class consturctordemo {
 
