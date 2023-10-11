@@ -1,10 +1,10 @@
 package com.tnsif.inheritanceprogram;
 
-public class Parent {
+ class Parent {
               int var=100;
 }
 
-  public class child extends Parent {
+  public class superdemo extends Parent {
 	  int var=50;
 	  void display() {
             System.out.println("the child value is"+var);
